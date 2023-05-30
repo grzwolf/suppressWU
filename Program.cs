@@ -72,6 +72,7 @@ namespace suppressWU
                     } catch {
                         logEvent(processToStop + " stop failed");
                     }
+                    break;
                 }
             }
         }
